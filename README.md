@@ -24,9 +24,3 @@ Antes de ejecutar el proyecto, asegúrate de tener instalados:
 - Un editor de texto o IDE como IntelliJ IDEA, Eclipse o VS Code.
 - Conexión a internet (necesaria para consumir la API).
 
-## Instalación y ejecución
-
-1. **Clona este repositorio**:
-   ```bash
-   git clone https://github.com/tuusuario/conversor_moneda.git
-   cd conversor_moneda
