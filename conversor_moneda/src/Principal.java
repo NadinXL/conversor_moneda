@@ -56,7 +56,6 @@ public class Principal {
 
                 Moneda resultado = consulta.conversarMoneda(opcion, cantidad);
 
-
                 System.out.printf("El valor %.2f [%s] corresponde al valor final de => %.2f [%s]%n",
                         cantidad,
                         resultado.base_code(),

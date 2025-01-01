@@ -9,7 +9,6 @@ public class ConsultaMoneda {
         String baseMoneda = "";
         String targetMoneda = "";
 
-
         switch (opcionMoneda) {
             case 1:
                 baseMoneda = "USD";
